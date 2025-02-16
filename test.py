@@ -3,6 +3,7 @@ import ttkbootstrap as ttk
 from ttkbootstrap.toast import ToastNotification
 
 root = ttk.Window(themename="superhero")
+root.title('Owynn probando cosas')
 
 root.title('Owynn')
 root.iconbitmap('Icono_app.ico')

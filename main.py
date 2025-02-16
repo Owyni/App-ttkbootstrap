@@ -12,10 +12,9 @@ root.maxsize(width=470, height=50)
 
 root.title('Owynn')
 
-toast = ToastNotification(title='Hi!',
-                            message="angelaleman2212@gmail.com  :)",
+toast = ToastNotification(title='Hey!',
+                            message="angelaleman2212@gmail.com  :D",
                             alert=True,
-                            position='south west',
                             duration=5000)
 
 def callback(url):
